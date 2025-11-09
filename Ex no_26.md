@@ -4,7 +4,7 @@
 To write a C program to demonstrate a self-referential structure where an employee has a pointer to their manager.
 
 ## Algorithm
-1. 
+1. xc
 2. 
 3. 
 4.  
